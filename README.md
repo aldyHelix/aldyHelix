@@ -34,7 +34,7 @@ Im just a software enginering:
   </tr>
   <tr>
      <td>
-       <a href="https://trakteer.id/aldyhelix" target="_blank"><img src="https://trakteer.id/aldyhelix/stream/qrcode?key=trstream-rstjqPoWCQtk2ebLyiNp&qr_showlink=true" alt="Send me donation"></img></a><br/>
+       <a href="https://trakteer.id/aldyhelix" target="_blank"><img src="https://i.postimg.cc/yNGPbQS3/index.png" alt="Send me donation"></img></a><br/>
        <a href="https://trakteer.id/aldyhelix" style="background: rgba(191,53,46,.7); text-align: center; color: white; box-sizing: border-box; max-width: 220px; padding: 5px; line-height: 1.25em; border-radius: .2em; font-size: .8em;">https://trakteer.id/aldyhelix</a>
     </td>
   </tr>
