@@ -1,16 +1,42 @@
-### Hi there 👋
 
-<!--
-**aldyHelix/aldyHelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, Im Aldy Helix or Aldy Satria👋
 
-Here are some ideas to get you started:
+Im just a software enginering:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Consultant IT as a Android Developer
+- 🌱 I’m currently learning Kotlin Generic Programing
+- 💬 Ask me about Kotlin, Java and PHP
+
+## Our Play Ground
+
+- PHP
+- Python
+- Dart
+- Laravel
+- Flutter
+- NodeJs
+- ExpressJs
+- Lumen
+- CodeIgniter
+
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aldyhelix&langs_count=8&hide=c,css,assembly,c%2B%2B&layout=compact)
+
+## Get in touch
+- Email: -
+
+![github stats](https://github-readme-stats.vercel.app/api?username=aldyhelix&show_icons=true&count_private=true&include_all_commits)
+
+<br/>
+
+## If you like my Apps you can send me Donation on :
+<table>
+  <tr>
+    <th>Trakteer.id</th>
+  </tr>
+  <tr>
+     <td>
+       <a href=https://trakteer.id/aldyhelix" target="_blank"><img src="https://i.ibb.co/ZWTfPPv/myqr.png" alt="Send me donation"></img></a><br/>
+       <a href="https://trakteer.id/aldyhelix" style="background: rgba(191,53,46,.7); text-align: center; color: white; box-sizing: border-box; max-width: 220px; padding: 5px; line-height: 1.25em; border-radius: .2em; font-size: .8em;">https://trakteer.id/aldyhelix</a>
+    </td>
+  </tr>
+</table>
