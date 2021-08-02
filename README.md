@@ -6,7 +6,7 @@
 
 Software Engineer and focus in Back-end Development:
 
-- 🔭    I’m currently working on a Consultant IT as a Software Engineer
+- 🔭  I’m currently working on a IT Company as a Backend Developer
 - 🌱  I’m currently learning and deep in Laravel, Node JS and learn any programming language
 - 🕴  ️I'm currently do freelence development & maintenance too
 - 🏋️ I'm currently built my own product
@@ -37,6 +37,7 @@ Software Engineer and focus in Back-end Development:
 ## Get in touch
 - Email Bussiness : aldy.satria07@gmail.com
 - Email Personal : aldyhelix01@gmail.com
+- Linked in : Aldy Satria Gumilar
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=aldyhelix&show_icons=true&count_private=true&include_all_commits)
 
