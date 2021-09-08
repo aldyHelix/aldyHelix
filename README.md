@@ -40,6 +40,7 @@ Software Engineer and focus in Back-end Development:
 - Linked in : Aldy Satria Gumilar
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=aldyhelix&show_icons=true&count_private=true&include_all_commits)
+![](https://github.com/aldyhelix/github-stats/blob/master/generated/overview.svg)
 
 
 ## If you like my Apps you can send me Donation on :
