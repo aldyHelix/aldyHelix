@@ -42,19 +42,3 @@ Software Engineer and focus in Back-end Development:
 ![github stats](https://github-readme-stats.vercel.app/api?username=aldyhelix&show_icons=true&count_private=true&include_all_commits)
 ![](https://github.com/aldyhelix/github-stats/blob/master/generated/overview.svg)
 
-
-## If you like my Apps you can send me Donation on :
-<table>
-  <tr>
-    <th>Trakteer.id</th>
-  </tr>
-  <tr>
-     <td>
-       <a href="https://trakteer.id/aldyhelix" target="_blank"><img src="https://i.postimg.cc/yNGPbQS3/index.png" alt="Send me donation"></img></a><br/>
-       <a href="https://trakteer.id/aldyhelix" style="background: rgba(191,53,46,.7); text-align: center; color: white; box-sizing: border-box; max-width: 220px; padding: 5px; line-height: 1.25em; border-radius: .2em; font-size: .8em;">https://trakteer.id/aldyhelix</a>
-    </td>
-  </tr>
-  
-## if you like my code sauce, you can send me donation on : Doge Coin too
-* DH2ag95KY9NeRNciTcc7FumzbCAGVure3o 
-
