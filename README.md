@@ -1,52 +1,79 @@
-### Hi there, Im Aldy Helix or Aldy Satria Gumilar👋
+### Hi there, Im aldyhelix or Aldy Satria Gumilar👋
 
+> Full Stack Developer with expertise in high-performance solutions and scalable architectures
+> "Turning complex problems into elegant solutions, one line of code at a time" 🚀
 > Thinking "out of the box" to provide software-based solutions 
-
 > Solving problem with bunch of code and a lot of bugs 🐞
 
-Software Engineer and focus in Full stack Development:
+## 💼 Professional Overview
+- 🔭 Full Stack Developer at Celerates specializing in enterprise solutions
+- 🌱 Deep diving into Golang, Laravel, and Node.js ecosystems
+- 🤝 Available for freelance development & maintenance projects
+- 📈 Experienced in both monolithic and microservices architectures
 
-- 🔭  I’m currently working on a IT Company as a Talent Expertise Fullstack Developer
-- 🌱  I’m currently learning and deep in Golang, Laravel, Node JS and learn any programming language
-- 🕴  ️I'm currently do freelence development & maintenance too
-- 🧑🏻‍💻  Fullstack busy monkey 🐒, 
+## 🛠 Tech Stack
 
-## My Play Ground
+### Backend Development
+- Golang | PHP | Node.js | Python
+- Laravel | Express.js | Lumen | CodeIgniter | Gin
 
-- Golang
-- PHP
-- Python
-- Dart
-- Laravel
-- Flutter
-- NodeJs
-- ExpressJs
-- Lumen
-- CodeIgniter
-- Rest API
-- Krakend API Gateway
+### Frontend
+- HTML5 | CSS3 | JavaScript | Tailwind
+
+### Infrastructure & Architecture
 - Docker
-- SOLID Architecture for Laravel
-- Monolith? Microservices? depend on my clients need. 
+- Krakend API Gateway
+- REST API Design
+- SOLID Architecture
+- Database Design & Optimization
 
-## My Personal Soft Skills
-* Fast Adaptbility
-* Communication Skills
-* Fast Learner
-* Problem Solving
-* Analytical Thinking Skills
-* Fast Paced - Agile Personal Project Management
+## 🎯 Featured Projects
 
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aldyhelix&langs_count=8&hide=c,css,assembly,c%2B%2B&layout=compact)
+### High-Performance Data Processing
+- Developed a Golang-based CSV importer handling 1M+ records
+- Optimized PostgreSQL bulk imports with concurrent processing
+- [View Project](https://github.com/aldyhelix/golang_import_large_csv_pgsql)
 
-## Data Based Import data, 1 million impor data using Golang
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldyhelix&repo=golang_import_large_csv_pgsql)](https://github.com/aldyhelix/golang_import_large_csv_pgsql)
+### [Other Project Name]
+- Brief description of another significant project
+- Key technologies used
+- Impact or results achieved
 
-## Get in touch
-- Email Bussiness : aldy.satria07@gmail.com
-- Email Personal : aldyhelix01@gmail.com
-- Linked in : Aldy Satria Gumilar
+## 💡 Core Competencies
 
-![github stats](https://github-readme-stats.vercel.app/api?username=aldyhelix&show_icons=true&count_private=true&include_all_commits)
-![](https://github.com/aldyhelix/github-stats/blob/master/generated/overview.svg)
+- 👥 Team Leadership & Mentoring
+- ⚡ Rapid Technology Adaptation
+- 🤝 Effective Cross-functional Communication
+- 🧠 Strong Analytical & Problem-Solving Skills
+- 📊 Agile & Scrum Project Management
+- 🎯 Performance Optimization
+
+## 📫 Connect With Me
+
+- 💼 [Aldy Satria Gumilar](https://www.linkedin.com/in/aldy-satria/)
+- 📧 Business Inquiries: aldy.satria07@gmail.com
+- 🌐 Personal: aldyhelix01@gmail.com
+
+## 📊 GitHub Statistics
+
+### Activity & Contributions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldyhelix&show_icons=true&count_private=true&include_all_commits&theme=radical)
+
+### Language Distribution
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldyhelix&langs_count=8&hide=c,css,assembly,c%2B%2B&layout=compact&theme=radical)
+
+### Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aldyhelix&theme=radical)
+
+### Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aldyhelix&theme=react-dark)
+
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=aldyhelix&color=brightgreen)
+
+### Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aldyhelix&theme=radical&row=1)
+
+### Additional Stats
+![Overview](https://github.com/aldyhelix/github-stats/blob/master/generated/overview.svg)
 
