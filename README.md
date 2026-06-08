@@ -58,8 +58,18 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/gRPC-2496ED?style=flat&logo=grpc&logoColor=white"/>
   <img src="https://img.shields.io/badge/KrakenD-0F2C3F?style=flat&logo=krakend&logoColor=white"/>
+</p>
+
+**Observability & BI**
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-F5A800?style=flat&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPS%20%2F%20Self--hosted-2ea44f?style=flat&logo=linux&logoColor=white"/>
 </p>
 
 **Architecture & Practices** — REST API design · Microservices & monoliths · Event/worker queues · Repository & service-layer patterns · SOLID · Database design & query optimization · CI/CD
@@ -109,17 +119,35 @@ A curated, hand-crafted Golang reference of practical snippets for fast lookup.
 
 ## 🏢 Enterprise & Client Work
 
-> Production systems delivered for businesses and government agencies. Source is private (client / NDA), so these are described by scope and impact.
+> Production systems delivered for businesses and government agencies. Source is private (client / NDA), so these are described by scope, stack, and impact.
 
-| Project | Scope |
-|---|---|
-| 🏥 **Medical Supply Management System** | End-to-end ERP for medical supplies — workshops, imports, purchase orders, multi-branch sales, document-oriented records, shipping & delivery orders, and a public catalogue website. |
-| ⛑️ **Industrial Safety Calculation App** | Core safety-calculation engine for the **mining & petrochemical** industries — codifying domain formulas and compliance logic. |
-| 🛒 **Online Shop + Payment Gateway** | Full e-commerce store with integrated payment-gateway checkout and order flow. |
-| 🏛️ **Government Open-Data Platform** | Dataset sharing & dashboard integration for **Badan Pangan Nasional** (National Food Agency) and **Badan Kepegawaian Negara** (National Civil Service Agency). |
-| ✅ **Halal Certification Tracker** | Certification process tracking with document storage and audit trail. |
-| 📦 **Inventory Management System** | Stock control, movements, and reporting across locations. |
-| 👥 **HRIS** | Human Resource Information System — employee records and HR operations. |
+### 🏥 Medical Supply Management System
+A comprehensive ERP covering the full medical-supply lifecycle — repair **workshops**, **imports**, **purchase orders**, **multi-branch sales**, **document-oriented records**, and **shipping & delivery orders** — fronted by a public **catalogue website**. Document storage and backups run on a self-hosted **Synology NAS**.
+`Laravel` · `Synology NAS` · `MySQL`
+
+### ⛑️ Industrial Safety Calculation App
+A safety-calculation engine for the **mining & petrochemical** industries, codifying domain formulas and compliance logic. Built with **Express.js** on **Supabase**, deployed to a hand-tuned **VPS** with **object storage (OSS)**, and observed end-to-end with **Grafana + Loki** for metrics and logs.
+`JavaScript` · `Express.js` · `Supabase` · `VPS` · `Grafana` · `Loki` · `Object Storage`
+
+### 🛒 Online Shop + Payment Gateway
+A **Laravel** e-commerce store with integrated **payment-gateway** checkout, cart, and order-fulfillment flow.
+`Laravel` · `Payment Gateway`
+
+### 🏛️ Government Open-Data Platform
+Dataset sharing and **BI dashboard integration** for **Badan Pangan Nasional** (National Food Agency) and **Badan Kepegawaian Negara** (National Civil Service Agency) — surfacing national datasets through **Power BI** and **Tableau** dashboards.
+`Power BI` · `Tableau` · `Data Integration`
+
+### ✅ Halal Certification Tracker
+A **Laravel** application tracking the halal-certification process with document storage and a full audit trail.
+`Laravel`
+
+### 📦 Inventory Management System
+**Laravel**-based stock control, item movements, and multi-location reporting.
+`Laravel`
+
+### 👥 HRIS — Human Resource Information System
+A **Laravel** HRIS managing employee records and core HR operations.
+`Laravel`
 
 ---
 
