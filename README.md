@@ -107,6 +107,22 @@ A curated, hand-crafted Golang reference of practical snippets for fast lookup.
 
 ---
 
+## 🏢 Enterprise & Client Work
+
+> Production systems delivered for businesses and government agencies. Source is private (client / NDA), so these are described by scope and impact.
+
+| Project | Scope |
+|---|---|
+| 🏥 **Medical Supply Management System** | End-to-end ERP for medical supplies — workshops, imports, purchase orders, multi-branch sales, document-oriented records, shipping & delivery orders, and a public catalogue website. |
+| ⛑️ **Industrial Safety Calculation App** | Core safety-calculation engine for the **mining & petrochemical** industries — codifying domain formulas and compliance logic. |
+| 🛒 **Online Shop + Payment Gateway** | Full e-commerce store with integrated payment-gateway checkout and order flow. |
+| 🏛️ **Government Open-Data Platform** | Dataset sharing & dashboard integration for **Badan Pangan Nasional** (National Food Agency) and **Badan Kepegawaian Negara** (National Civil Service Agency). |
+| ✅ **Halal Certification Tracker** | Certification process tracking with document storage and audit trail. |
+| 📦 **Inventory Management System** | Stock control, movements, and reporting across locations. |
+| 👥 **HRIS** | Human Resource Information System — employee records and HR operations. |
+
+---
+
 ## 💡 Core Competencies
 
 - ⚡ Performance optimization & scalable backend architecture
