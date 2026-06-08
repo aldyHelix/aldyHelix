@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://aldyhelix.github.io/"><img src="https://img.shields.io/badge/Portfolio-aldyhelix.github.io-1f6feb?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/aldy-satria/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:aldy.satria07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Indonesia%20(GMT%2B7)-2ea44f?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
@@ -133,8 +134,9 @@ A curated, hand-crafted Golang reference of practical snippets for fast lookup.
 
 ## 📫 Let's Connect
 
+- 🌐 Portfolio — [aldyhelix.github.io](https://aldyhelix.github.io/)
 - 💼 LinkedIn — [Aldy Satria Gumilar](https://www.linkedin.com/in/aldy-satria/)
 - 📧 Business — aldy.satria07@gmail.com
-- 🌐 Personal — aldyhelix01@gmail.com
+- 📧 Personal — aldyhelix01@gmail.com
 
 <p align="center"><i>Open to remote opportunities worldwide — let's build something that scales.</i></p>
