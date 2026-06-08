@@ -129,10 +129,6 @@ A curated, hand-crafted Golang reference of practical snippets for fast lookup.
   <img src="https://streak-stats.demolab.com/?user=aldyhelix&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aldyhelix&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
-
 ---
 
 ## 📫 Let's Connect
