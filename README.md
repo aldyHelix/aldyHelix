@@ -9,7 +9,7 @@
   <a href="https://aldyhelix.github.io/"><img src="https://img.shields.io/badge/Portfolio-aldyhelix.github.io-1f6feb?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/aldy-satria/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:aldy.satria07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Location-Indonesia%20(GMT%2B7)-2ea44f?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Indonesia%20(GMT%2B8)-2ea44f?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Worldwide-blueviolet?style=flat&logo=workplace&logoColor=white" alt="Remote"/>
   <img src="https://komarev.com/ghpvc/?username=aldyhelix&color=brightgreen&label=Profile+Views" alt="Profile Views"/>
 </p>
@@ -21,7 +21,7 @@
 | | |
 |---|---|
 | 🧭 **Role** | Full Stack Engineer (backend-focused) |
-| 📍 **Based in** | Tangerang Selatan, Indonesia — **GMT+7** |
+| 📍 **Based in** | Banjarbaru, Indonesia — **GMT+8** |
 | 🕘 **Availability** | Open to **remote** roles & freelance; overlaps comfortably with APAC, EU mornings, and US evenings |
 | 🗣 **Languages** | Indonesian (native), English (professional working proficiency) |
 | 🤝 **Strengths** | Async-first communication, clean architecture, performance optimization, mentoring |
